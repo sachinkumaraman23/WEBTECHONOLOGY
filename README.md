@@ -1,6 +1,7 @@
 # WEBTECHONOLOGY
 
 Photography Website
+
 This project is a photography website that showcases a collection of my photography work. It's built using HTML, CSS, and JavaScript to create a visually appealing and interactive experience for visitors.
 
 Features:
