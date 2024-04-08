@@ -1,7 +1,5 @@
 # WEBTECHONOLOGY
 
-Adding a brief description for your photography website project on GitHub can help visitors understand what your project is about and what its purpose or features are. Here's an example of how you could structure your project description:
-
 Photography Website
 This project is a photography website that showcases a collection of my photography work. It's built using HTML, CSS, and JavaScript to create a visually appealing and interactive experience for visitors.
 
